@@ -2,6 +2,8 @@ This is my first Angular application.
 
 # ReadersAnonymous
 
+## Self-teaching Angular by building an application using the NYT API
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 ## Development server
